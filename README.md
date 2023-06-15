@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Emiliano</h1>
-    <h3 align="center">A passionate fullstack web developer from Argentina.</h3>
+    <h3 align="center">A passionate Full-Stack web developer from Argentina.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 I work as a Full-Stack web developer
 
 - 📫 How to reach me **emiliano.caballero98@gmail.com**
 
