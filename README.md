@@ -9,7 +9,7 @@
 
 - 📝 I work as a Full-Stack web developer
 
-- 📫 How to reach me **emiliano.caballero98@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/emiliano-caballero98**
 
 - 🌱 I’m currently learning **React.js**
 
